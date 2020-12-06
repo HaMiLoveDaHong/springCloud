@@ -10,6 +10,7 @@
     <modules>
        <module>eurekaServer</module>
        <module>eureka-client</module>
+       <module>eurekaRibbon</module>
     </modules>
 
     <packaging>pom</packaging>
